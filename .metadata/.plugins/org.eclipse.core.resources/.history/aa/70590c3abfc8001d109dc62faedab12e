@@ -1,0 +1,5 @@
+package com.mainstore.store;
+
+public class User {
+
+}
