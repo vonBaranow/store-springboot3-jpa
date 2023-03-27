@@ -1,0 +1,5 @@
+package com.mainstore.store.repositories;
+
+public class UserRepository {
+
+}

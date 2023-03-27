@@ -1,0 +1,5 @@
+package com.mainstore.store.config;
+
+public class TestConfig {
+
+}
