@@ -17,7 +17,7 @@ import com.mainstore.store.services.UserService;
 public class UserResource {
 
 	@Autowired
-	private  UserService service;
+	private UserService service;
 	
 	@GetMapping
 	public ResponseEntity<List<User>> findAll() {
