@@ -34,4 +34,6 @@
     <fullyQualifiedTypeName name="com.mainstore.store.entities.Order"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat.Shape"/>
+    <fullyQualifiedTypeName name="com.mainstore.store.entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 </qualifiedTypeNameHistroy>
